@@ -179,3 +179,19 @@ Please, make sure all steps are using **the same** python version and that you h
 ## License
 
 [License](LICENSE.txt)
+
+## Project Submission Information
+
+**GitHub Repository:** https://github.com/drapp3/Project-Build-an-ML-Pipeline-Starter
+
+**W&B Project:** https://wandb.ai/davisrapp-western-governors-university/nyc_airbnb
+*Note: W&B project is set to private due to organizational restrictions. All model metrics and artifacts are documented in this repository.*
+
+**Releases:**
+- Version 1.0.0: Initial release
+- Version 1.0.1: Fixed geolocation filtering for sample2.csv
+
+**Model Performance:**
+- Best Model: Random Forest with max_depth=50, n_estimators=200
+- MAE: 34.18
+- R²: 0.5506
