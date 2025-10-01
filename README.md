@@ -185,7 +185,6 @@ Please, make sure all steps are using **the same** python version and that you h
 **GitHub Repository:** https://github.com/drapp3/Project-Build-an-ML-Pipeline-Starter
 
 **W&B Project:** https://wandb.ai/davisrapp-western-governors-university/nyc_airbnb
-*Note: W&B project is set to private due to organizational restrictions. All model metrics and artifacts are documented in this repository.*
 
 **Releases:**
 - Version 1.0.0: Initial release
